@@ -3837,6 +3837,7 @@ int main(int argc, char *argv[])
         printf("BTC donation address: 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo (tpruvot)\n\n");
         printf("BTC donation address: 15h2QmsRwwwEdNNC6HbYHJU9mpbLrjUdDK (EhssanD)\n\n");
         printf("DYN donation address: DKPnTs1s71DtesAvvLMchtsj4gRFxphW55 (EhssanD)\n\n");
+        printf("compiled by nemosminer@github.com\n\n");   
     }
 
     rpc_user = strdup("");
