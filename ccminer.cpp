@@ -3832,11 +3832,14 @@ int main(int argc, char *argv[])
         printf("    Built with the nVidia CUDA Toolkit %d.%d %s\n\n",
 #endif
             CUDART_VERSION/1000, (CUDART_VERSION % 1000)/10, arch);
-        printf("*** Argon2d algorithm added by EhssanD@github ***\n");
+            printf("*** Argon2d algorithm added by EhssanD@github ***\n");
         printf("*** Based on tpruvot@github ccminer ***\n");
         printf("BTC donation address: 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo (tpruvot)\n\n");
         printf("BTC donation address: 15h2QmsRwwwEdNNC6HbYHJU9mpbLrjUdDK (EhssanD)\n\n");
         printf("DYN donation address: DKPnTs1s71DtesAvvLMchtsj4gRFxphW55 (EhssanD)\n\n");
+        printf("compute 7.5 vs2017 v141toolset support added by stsminer\n\n");
+        printf("compiled by nemosminer@github.com\n\n");
+
     }
 
     rpc_user = strdup("");

@@ -161,10 +161,10 @@
 #define PACKAGE_NAME "ccminer-dyn"
 
 /* Define to the home page for this package. */
-#define PACKAGE_URL "https://github.com/duality-solutions/Dynamic-GPU-Miner-Nvidia"
+#define PACKAGE_URL "https://github.com/nemosminer/Dynamic-GPU-Miner-Nvidia"
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "1.0.0"
+#define PACKAGE_VERSION "1.0.1"
 
 /* If using the C implementation of alloca, define if you know the
    direction of stack growth for your system; otherwise it will be
